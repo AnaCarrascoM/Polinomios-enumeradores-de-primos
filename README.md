@@ -1,6 +1,6 @@
 **We all love primes. Let me show you one more reason why!**
 
-Here's my **final degree project**, supervised by Jesús Soto. 
+Here's my **final degree project**, supervised by Jesús Soto (Universidad de Sevilla). 
 
 **Abstract:**
 
